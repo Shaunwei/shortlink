@@ -1,0 +1,10 @@
+
+pyshorteners
+    - full support of bit.ly and other shortlink services
+    - full features
+    - python3 support
+
+shorten
+    - better docs
+    - only py2
+    - api not supported anymore, confusing
